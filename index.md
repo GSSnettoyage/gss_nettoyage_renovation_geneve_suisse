@@ -1,119 +1,78 @@
 ---
 layout: default
-title: Nettoyage Genève | Entreprise de nettoyage professionnel – GSS Nettoyage
-description: GSS Nettoyage est une entreprise de nettoyage à Genève spécialisée en nettoyage de bureaux, fin de bail, fin de chantier et conciergerie dans le canton de Genève.
+title: "Nettoyage Genève – GSS Nettoyage"
+description: "Services de nettoyage professionnel à Genève pour bureaux, fin de bail et chantier."
 permalink: /
 ---
 
-# Entreprise de nettoyage à Genève – GSS Nettoyage
+# GSS Nettoyage Genève 🇨🇭  
+## Entreprise de nettoyage professionnel à Genève – Suisse
 
-**GSS Nettoyage Genève** est une entreprise spécialisée dans le **nettoyage professionnel à Genève** et dans tout le canton.
+Bienvenue sur le profil officiel de **GSS Nettoyage Genève**, société spécialisée dans les services de nettoyage professionnel à Genève et dans le canton de Genève.
 
-Nous accompagnons :
-
-- Entreprises
-- Régies immobilières
-- Particuliers
-- Copropriétés
-
-<a href="https://gssnettoyage.ch" class="cta-button">Demander un devis gratuit
-</a>
-
-👉 [Voir tous nos services de nettoyage à Genève](https://gssnettoyage.ch/services-de-nettoyage-geneve-suisse/)
+🔗 **[Site officiel – GSS Nettoyage Genève](https://gssnettoyage.ch)**  
 
 ---
 
-## Nos services de nettoyage à Genève
+## 🏢 Nos services de nettoyage à Genève
 
-- 👉 Nettoyage de bureaux à Genève
-- 👉 Nettoyage de fin de bail à Genève
-- 👉 Nettoyage de fin de chantier à Genève
-- 👉 Service de conciergerie à Genève
+GSS Nettoyage accompagne les entreprises et les particuliers avec des prestations sur mesure :
 
----
+### ✔ Nettoyage de bureaux à Genève
+Entretien régulier ou ponctuel de bureaux, open spaces et espaces professionnels.  
+Hygiène, désinfection, entretien des sols et des surfaces.
 
-## Nettoyage de bureaux à Genève
+### ✔ Nettoyage de fin de bail (état des lieux)
+Nettoyage complet d’appartements et maisons avant restitution.  
+Intervention conforme aux exigences des régies genevoises.
 
-Nous assurons le **nettoyage de bureaux à Genève** de manière régulière ou ponctuelle :
+### ✔ Nettoyage d’immeubles et copropriétés
+Entretien des parties communes, cages d’escaliers, ascenseurs et vitrages.
 
-- Dépoussiérage et désinfection
-- Nettoyage des sols
-- Entretien des sanitaires
-- Gestion des déchets
-
-Un environnement propre améliore le bien-être et l’image de votre entreprise.
-
-👉 [En savoir plus sur nos services professionnels]({{ "/services/" | relative_url })
+### ✔ Nettoyage commercial et industriel
+Magasins, locaux techniques, ateliers, espaces industriels.
 
 ---
 
-## Nettoyage de fin de bail à Genève
+## 📍 Zone d’intervention
 
-Spécialistes du **nettoyage de fin de bail à Genève**, nous garantissons une restitution conforme aux exigences des régies genevoises.
+Nous intervenons principalement à :
 
-Nos prestations comprennent :
-
-- Cuisine et électroménager
-- Salle de bains et sanitaires
-- Vitres et encadrements
-- Détartrage complet
-
-👉 [Service de nettoyage fin de bail Genève]({{ "/services/" | relative_url }})
+- Genève  
+- Carouge  
+- Lancy  
+- Meyrin  
+- Vernier  
+- Canton de Genève  
 
 ---
 
-## Nettoyage de fin de chantier à Genève
+## 🌱 Engagement qualité
 
-Après travaux ou rénovation, notre entreprise de **nettoyage à Genève** intervient pour :
+- Équipe professionnelle et formée  
+- Produits de nettoyage adaptés et efficaces  
+- Respect des délais  
+- Service fiable et soigné  
 
-- Éliminer poussières fines et résidus
-- Nettoyer surfaces délicates
-- Préparer les locaux à l’occupation
-
-👉 [Nettoyage après travaux à Genève]({{ "/services/" | relative_url }})
-
----
-
-## Service de conciergerie à Genève
-
-Nous proposons un service complet :
-
-- Entretien des immeubles
-- Nettoyage des parties communes
-- Suivi régulier des copropriétés
-
-👉 [Conciergerie et entretien d’immeubles Genève]({{ "/services/" | relative_url }})
+Notre objectif : garantir un environnement propre, sain et professionnel.
 
 ---
 
-## Zone d’intervention
+## 🔎 Pourquoi choisir GSS Nettoyage Genève ?
 
-Notre entreprise de nettoyage intervient à :
-
-- Genève centre
-- Carouge
-- Lancy
-- Meyrin
-- Vernier
-- L’ensemble du canton de Genève
+✔ Entreprise locale spécialisée en nettoyage professionnel à Genève  
+✔ Intervention rapide et devis personnalisé  
+✔ Expérience dans le nettoyage de bureaux et fin de bail  
+✔ Relation de confiance avec les entreprises et particuliers  
 
 ---
 
-## Pourquoi choisir GSS Nettoyage Genève ?
+## 📞 Contact
 
-✔ Entreprise locale spécialisée  
-✔ Interventions rapides  
-✔ Personnel qualifié  
-✔ Solutions adaptées aux entreprises et particuliers  
-✔ Devis rapide et personnalisé  
+Pour toute demande de devis ou information :
 
----
-
-## Contact – Devis gratuit
-
-Pour toute demande :
-
-🌍 [Site officiel GSS Nettoyage Genève](https://gssnettoyage.ch)
+🌍 **[https://gssnettoyage.ch](https://gssnettoyage.ch)**  
+📧 Formulaire de contact disponible sur le site  
 
 ---
 
