@@ -1,69 +1,76 @@
-
-/* ================================
-   FOND GLOBAL
-================================ */
+/* ============================= */
+/* STRUCTURE GENERALE */
+/* ============================= */
 
 body {
-  background: red !important;
+  background: #f4f6f8;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  color: #222;
+  line-height: 1.7;
+  margin: 0;
 }
-
-/* ================================
-   CONTENEUR CENTRAL
-================================ */
 
 .page-content,
-.wrapper,
-main {
-  max-width: 800px;
-  margin: 60px auto;
-  padding: 60px 60px;
+.wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 60px 30px;
   background: #ffffff;
-  border-radius: 12px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
 }
 
-/* ================================
-   TYPOGRAPHIE PLUS AÉRÉE
-================================ */
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Helvetica, Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1.8;
-  color: #24292f;
-}
-
-p {
-  margin-bottom: 22px;
-}
-
-/* ================================
-   TITRES
-================================ */
+/* ============================= */
+/* TITRES */
+/* ============================= */
 
 h1 {
-  font-size: 34px;
-  font-weight: 600;
-  margin-bottom: 30px;
-  padding-bottom: 15px;
-  border-bottom: 1px solid #eaecef;
+  font-size: 2.4rem;
+  margin-bottom: 25px;
+  text-align: center;
+  font-weight: 700;
+  color: #111;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 1.6rem;
   margin-top: 60px;
-  margin-bottom: 20px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #eaecef;
+  margin-bottom: 25px;
+  font-weight: 600;
+  border-left: 5px solid #0a58ca;
+  padding-left: 15px;
+  color: #0a58ca;
 }
 
-/* ================================
-   LIENS
-================================ */
+/* ============================= */
+/* PARAGRAPHES */
+/* ============================= */
+
+p {
+  font-size: 1.05rem;
+  margin-bottom: 18px;
+}
+
+/* ============================= */
+/* LISTES SERVICES */
+/* ============================= */
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 20px;
+  font-size: 1.05rem;
+}
+
+/* ============================= */
+/* LIENS & BOUTONS */
+/* ============================= */
 
 a {
-  color: #0969da;
+  color: #0a58ca;
+  font-weight: 600;
   text-decoration: none;
 }
 
@@ -71,15 +78,40 @@ a:hover {
   text-decoration: underline;
 }
 
-/* ================================
-   MOBILE
-================================ */
+a.button {
+  display: inline-block;
+  background: #0a58ca;
+  color: white;
+  padding: 14px 25px;
+  border-radius: 6px;
+  margin-top: 15px;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
 
-@media (max-width: 768px) {
-  .page-content,
-  .wrapper,
-  main {
-    margin: 20px;
-    padding: 30px;
-  }
+a.button:hover {
+  background: #084298;
+  text-decoration: none;
+}
+
+/* ============================= */
+/* SEPARATEURS */
+/* ============================= */
+
+hr {
+  border: none;
+  border-top: 1px solid #e3e3e3;
+  margin: 50px 0;
+}
+
+/* ============================= */
+/* ZONE INTERVENTION */
+/* ============================= */
+
+.zone {
+  background: #f8f9fa;
+  padding: 25px;
+  border-radius: 6px;
+  font-weight: 500;
+  margin-top: 20px;
 }
