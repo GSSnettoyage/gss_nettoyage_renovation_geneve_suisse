@@ -39,7 +39,7 @@ Notre service de **nettoyage fin de bail à Genève** garantit une restitution c
 - Remise en état générale  
 
 👉 Détails du service :  
-**[Nettoyage fin de bail à Genève – GSS Nettoyage](https://gssnettoyage.ch/services/nettoyage-fin-de-bail-2/)**
+**[Nettoyage fin de bail à Genève – GSS Nettoyage](https://gssnettoyage.ch/services-de-nettoyage-geneve-suisse/nettoyage-fin-de-bail-geneve-en-suisse/)**
 
 Maximisez vos chances de récupérer votre garantie lors de l’état des lieux.
 
@@ -102,7 +102,7 @@ Notre entreprise de nettoyage intervient à :
 Rue Charles-Giron 12  
 1203 Genève – Suisse  
 
-🌍 Site officiel : **https://gssnettoyage.ch**
+🌍 Site officiel : **[GSS Nettoyage Genève - Suisse](https://gssnettoyage.ch)**
 
 ---
 
