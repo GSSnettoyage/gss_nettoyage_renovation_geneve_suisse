@@ -3,6 +3,7 @@ layout: default
 title: "Nettoyage Genève – GSS Nettoyage"
 description: "Entreprise de nettoyage à Genève spécialisée en nettoyage de bureaux, fin de bail et chantier dans le canton de Genève."
 permalink: /
+<link rel="canonical" href="https://gssnettoyage.ch/" />
 ---
 
 # GSS Nettoyage Genève 🇨🇭  
