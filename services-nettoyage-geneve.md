@@ -5,7 +5,7 @@ description: "Découvrez les services de nettoyage à Genève proposés par GSS 
 permalink: /services-nettoyage-geneve/
 ---
 
-# Services de nettoyage à Genève – GSS Nettoyage Genève
+# Services de nettoyage à Genève – GSS Nettoyage
 
 Les **services professionnels de GSS Nettoyage Genève** sont destinés aux entreprises et aux particuliers recherchant une entreprise de nettoyage fiable à Genève.
 
