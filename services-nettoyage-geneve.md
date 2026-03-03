@@ -54,7 +54,7 @@ Après travaux ou rénovation, nous proposons un **nettoyage professionnel aprè
 - Remise en état avant occupation  
 
 👉 Découvrez ce service sur :  
-**[Nettoyage fin de chantier – GSS Nettoyage Genève](https://gssnettoyage.ch)**
+**[Nettoyage fin de chantier – GSS Nettoyage Genève](https://gssnettoyage.ch/services-de-nettoyage-geneve-suisse/nettoyage-fin-de-chantier-geneve-suisse/)**
 
 ---
 
