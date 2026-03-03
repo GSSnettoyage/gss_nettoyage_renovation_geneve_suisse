@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Nettoyage Genève – GSS Nettoyage"
-description: "Services de nettoyage professionnel à Genève pour bureaux, fin de bail et chantier."
+description: "Entreprise de nettoyage à Genève spécialisée en nettoyage de bureaux, fin de bail et chantier dans le canton de Genève."
 permalink: /
 ---
 
 # GSS Nettoyage Genève 🇨🇭  
 ## Entreprise de nettoyage professionnel à Genève – Suisse
 
-Bienvenue sur le profil officiel de **GSS Nettoyage Genève**, société spécialisée dans les services de nettoyage professionnel à Genève et dans le canton de Genève.
+Bienvenue chez **GSS Nettoyage Genève**, entreprise spécialisée dans le **nettoyage professionnel à Genève** et dans tout le canton.
 
 🔗 **[Site officiel – GSS Nettoyage Genève](https://gssnettoyage.ch)**  
 
@@ -50,11 +50,25 @@ Nous intervenons principalement à :
 ## 🌱 Engagement qualité
 
 - Équipe professionnelle et formée  
-- Produits de nettoyage adaptés et efficaces  
+- Produits adaptés et efficaces  
 - Respect des délais  
 - Service fiable et soigné  
 
 Notre objectif : garantir un environnement propre, sain et professionnel.
+
+---
+
+# 📌 Informations légales & coordonnées (NAP)
+
+**Nom de l’entreprise :** GSS Nettoyage Genève  
+**Activité :** Entreprise de nettoyage professionnel  
+**Ville :** Genève  
+**Canton :** Genève  
+**Pays :** Suisse  
+**Site web :** https://gssnettoyage.ch  
+
+📞 Téléphone : +41 XX XXX XX XX  
+📧 Contact : via formulaire sur le site officiel  
 
 ---
 
@@ -63,16 +77,15 @@ Notre objectif : garantir un environnement propre, sain et professionnel.
 ✔ Entreprise locale spécialisée en nettoyage professionnel à Genève  
 ✔ Intervention rapide et devis personnalisé  
 ✔ Expérience dans le nettoyage de bureaux et fin de bail  
-✔ Relation de confiance avec les entreprises et particuliers  
+✔ Relation de confiance avec entreprises et particuliers  
 
 ---
 
 ## 📞 Contact
 
-Pour toute demande de devis ou information :
+Pour toute demande de devis :
 
 🌍 **[https://gssnettoyage.ch](https://gssnettoyage.ch)**  
-📧 Formulaire de contact disponible sur le site  
 
 ---
 
