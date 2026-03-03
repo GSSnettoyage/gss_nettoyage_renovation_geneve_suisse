@@ -106,4 +106,5 @@ Rue Charles-Giron 12
 
 ---
 
-Entreprise de nettoyage Genève | Nettoyage bureaux Genève | Nettoyage fin de bail Genève | Nettoyage professionnel Suisse
+Entreprise de nettoyage Genève - Nettoyage bureaux à Genève - Nettoyage fin de bail Genève - Nettoyage professionnel Suisse
+
