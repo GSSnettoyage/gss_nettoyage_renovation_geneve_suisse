@@ -5,7 +5,7 @@ description: "Entreprise de nettoyage à Genève spécialisée en nettoyage de b
 permalink: /
 ---
 
-# Entreprise de nettoyage à Genève – GSS Nettoyage 🇨🇭
+# Entreprise de nettoyage à Genève – GSS Nettoyage
 
 Bienvenue chez **GSS Nettoyage Genève**, entreprise spécialisée dans le **nettoyage professionnel à Genève** et dans tout le canton.
 
