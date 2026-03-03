@@ -18,16 +18,16 @@ Nous accompagnons :
 
 👉 [Demander un devis de nettoyage à Genève](https://gssnettoyage.ch)
 
-👉 [Voir tous nos services de nettoyage à Genève]({{ "/services/" | relative_url }})
+👉 [Voir tous nos services de nettoyage à Genève](https://gssnettoyage.ch/services-de-nettoyage-geneve-suisse/)
 
 ---
 
 ## Nos services de nettoyage à Genève
 
-- 👉 [Nettoyage de bureaux à Genève](#nettoyage-de-bureaux-à-genève)
-- 👉 [Nettoyage de fin de bail à Genève](#nettoyage-de-fin-de-bail-à-genève)
-- 👉 [Nettoyage de fin de chantier à Genève](#nettoyage-de-fin-de-chantier-à-genève)
-- 👉 [Service de conciergerie à Genève](#service-de-conciergerie-à-genève)
+- 👉 Nettoyage de bureaux à Genève
+- 👉 Nettoyage de fin de bail à Genève
+- 👉 Nettoyage de fin de chantier à Genève
+- 👉 Service de conciergerie à Genève
 
 ---
 
@@ -42,7 +42,7 @@ Nous assurons le **nettoyage de bureaux à Genève** de manière régulière ou 
 
 Un environnement propre améliore le bien-être et l’image de votre entreprise.
 
-👉 [En savoir plus sur nos services professionnels]({{ "/services/" | relative_url }})
+👉 [En savoir plus sur nos services professionnels]({{ "/services/" | relative_url })
 
 ---
 
