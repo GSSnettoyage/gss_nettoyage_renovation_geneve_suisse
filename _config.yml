@@ -13,9 +13,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-author: GSS Nettoyage Genève
-logo: /assets/logo.png
-
 seo:
   type: Organization
   canonical: false
