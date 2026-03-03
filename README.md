@@ -1,23 +1,16 @@
----
-
-layout: default
-title: Nettoyage Genève – GSS Nettoyage
-description: Services de nettoyage professionnel à Genève pour bureaux, fin de bail et chantier.
-
----
-
 # GSS Nettoyage Genève 🇨🇭  
 ## Entreprise de nettoyage professionnel à Genève – Suisse
 
-Bienvenue sur le profil officiel de **GSS Nettoyage Genève**, société spécialisée dans les services de nettoyage professionnel à Genève et dans le canton de Genève.
+Bienvenue sur le dépôt officiel de **GSS Nettoyage Genève**, entreprise spécialisée dans le nettoyage professionnel à Genève et dans le canton de Genève.
 
-🔗 **Site officiel :** https://gssnettoyage.ch  
+🌍 **Site officiel :**  
+https://gssnettoyage.ch  
 
 ---
 
-## 🏢 Nos services de nettoyage à Genève
+## 🏢 Services proposés
 
-GSS Nettoyage accompagne les entreprises et les particuliers avec des prestations sur mesure :
+GSS Nettoyage accompagne entreprises et particuliers avec des prestations sur mesure :
 
 ### ✔ Nettoyage de bureaux à Genève
 Entretien régulier ou ponctuel de bureaux, open spaces et espaces professionnels.  
@@ -37,47 +30,23 @@ Magasins, locaux techniques, ateliers, espaces industriels.
 
 ## 📍 Zone d’intervention
 
-Nous intervenons principalement à :
-
-- Genève
-- Carouge
-- Lancy
-- Meyrin
-- Vernier
-- Canton de Genève
-
----
-
-## 🌱 Engagement qualité
-
-- Équipe professionnelle et formée  
-- Produits de nettoyage adaptés et efficaces  
-- Respect des délais  
-- Service fiable et soigné  
-
-Notre objectif : garantir un environnement propre, sain et professionnel.
-
----
-
-## 🔎 Pourquoi choisir GSS Nettoyage Genève ?
-
-✔ Entreprise locale spécialisée en nettoyage professionnel à Genève  
-✔ Intervention rapide et devis personnalisé  
-✔ Expérience dans le nettoyage de bureaux et fin de bail  
-✔ Relation de confiance avec les entreprises et particuliers  
+- Genève  
+- Carouge  
+- Lancy  
+- Meyrin  
+- Vernier  
+- Canton de Genève  
 
 ---
 
 ## 📞 Contact
 
-Pour toute demande de devis ou information :
+Pour toute demande de devis :
 
 🌍 https://gssnettoyage.ch  
-📧 Formulaire de contact disponible sur le site  
 
 ---
 
-### Mots-clés stratégiques
+### SEO Keywords
 
 Nettoyage Genève, entreprise de nettoyage Genève, nettoyage bureaux Genève, nettoyage fin de bail Genève, nettoyage professionnel Suisse.
-
