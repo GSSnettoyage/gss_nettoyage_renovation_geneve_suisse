@@ -58,17 +58,17 @@ Notre objectif : garantir un environnement propre, sain et professionnel.
 
 ---
 
-# 📌 Informations légales & coordonnées (NAP)
+# 📌 Informations légales & coordonnées
 
 **Nom de l’entreprise :** GSS Nettoyage Genève  
 **Activité :** Entreprise de nettoyage professionnel  
 **Ville :** Genève  
-**Canton :** Genève  
+**Canton :** Canton de Genève  
 **Pays :** Suisse  
 **Site web :** https://gssnettoyage.ch  
 
-📞 Téléphone : +41 XX XXX XX XX  
-📧 Contact : via formulaire sur le site officiel  
+📞 Téléphone : +41 79 198 52 48
+📧 Contact : via formulaire sur le site officiel : **[https://gssnettoyage.ch](https://gssnettoyage.ch/contacter-gss-nettoyage-geneve-suisse/)**  
 
 ---
 
@@ -91,4 +91,4 @@ Pour toute demande de devis :
 
 ### Mots-clés stratégiques
 
-Nettoyage Genève, entreprise de nettoyage Genève, nettoyage bureaux Genève, nettoyage fin de bail Genève, nettoyage professionnel Suisse.
+Nettoyage Genève, entreprise de nettoyage Genève, services en suisse, rénovation, nettoyage bureaux Genève, nettoyage fin de bail Genève, nettoyage professionnel Suisse.
