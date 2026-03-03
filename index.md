@@ -16,8 +16,7 @@ Nous accompagnons :
 - Particuliers
 - Copropriétés
 
-<a href="https://gssnettoyage.ch" class="cta-button">
-👉 Demander un devis gratuit
+<a href="https://gssnettoyage.ch" class="cta-button">Demander un devis gratuit
 </a>
 
 👉 [Voir tous nos services de nettoyage à Genève](https://gssnettoyage.ch/services-de-nettoyage-geneve-suisse/)
