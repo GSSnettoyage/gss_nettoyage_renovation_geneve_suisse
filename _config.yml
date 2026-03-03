@@ -12,7 +12,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# SEO supplémentaires
+author: GSS Nettoyage Genève
+logo: /assets/logo.png
+
+seo:
+  type: Organization
+  canonical: false
+
 organization:
-  name: GSS Nettoyage Genève - Suisse
+  name: GSS Nettoyage Genève
   url: https://gssnettoyage.ch
+
+social:
+  name: GSS Nettoyage Genève
