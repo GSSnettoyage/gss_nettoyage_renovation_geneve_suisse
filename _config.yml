@@ -1,9 +1,10 @@
 title: GSS Nettoyage Genève – Entreprise de nettoyage à Genève
 description: Entreprise de nettoyage à Genève spécialisée en nettoyage de bureaux, fin de bail, fin de chantier et conciergerie dans le canton de Genève.
-theme: minima
 
 url: "https://gssnettoyage.github.io"
 baseurl: "/gss_nettoyage_renovation_geneve_suisse"
+
+theme: minima
 
 lang: fr
 timezone: Europe/Zurich
