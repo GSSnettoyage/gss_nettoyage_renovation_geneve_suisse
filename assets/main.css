@@ -1,3 +1,8 @@
+---
+---
+
+@import "minima";
+
 /* Conteneur centré */
 .site-container {
   max-width: 1000px;
@@ -30,7 +35,7 @@ ul {
   margin-bottom: 20px;
 }
 
-/* Boutons */
+/* Liens */
 a {
   color: #0066cc;
   text-decoration: none;
