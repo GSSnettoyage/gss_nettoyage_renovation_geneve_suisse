@@ -11,8 +11,8 @@ Bienvenue sur la page officielle de **GSS Nettoyage Genève**, société spécia
 
 Nous accompagnons entreprises, régies et particuliers avec des prestations adaptées à chaque besoin.
 
-👉 **Site officiel :** https://gssnettoyage.ch  
-👉 **Voir le détail des services :** /gss_nettoyage_renovation_geneve_suisse/services  
+👉 [Site officiel – GSS Nettoyage Genève](https://gssnettoyage.ch)  
+👉 [Voir le détail des services](https://gssnettoyage.github.io/gss_nettoyage_renovation_geneve_suisse/services)
 
 ---
 
@@ -88,8 +88,8 @@ Nous intervenons à :
 
 Pour toute demande de devis :
 
-🌍 https://gssnettoyage.ch  
-📞 Contact via le site officiel  
+🌍 [https://gssnettoyage.ch](https://gssnettoyage.ch)  
+📞 [Contact via le site officiel](https://gssnettoyage.ch)
 
 ---
 
