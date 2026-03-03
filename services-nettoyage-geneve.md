@@ -105,9 +105,9 @@ Rue Charles-Giron 12
 🌍 Site officiel : **[GSS Nettoyage Genève - Suisse](https://gssnettoyage.ch)**
 
 Instagram Officiel : <a href="https://www.instagram.com/gss__fm/" title="Compte Instagram GSS Nettoyage">
-GSS Nettoyage Genève
+Instagram - GSS Nettoyage Genève
 </a>
-Retour page Accueil GSS Nettoyage GitHub: <a href="https://gssnettoyage.github.io/gss_nettoyage_renovation_geneve_suisse/" title="Services de nettoyage à Genève">
+Retour page Accueil GSS Nettoyage GitHub : <a href="https://gssnettoyage.github.io/gss_nettoyage_renovation_geneve_suisse/" title="Services de nettoyage à Genève">
   GSS Nettoyage Genève - Suisse
 </a>
 
