@@ -1,9 +1,8 @@
 ---
-
 layout: default
-title: Nettoyage Genève – GSS Nettoyage
-description: Services de nettoyage professionnel à Genève pour bureaux, fin de bail et chantier.
-
+title: "Services de nettoyage à Genève"
+description: "Description des services proposés par GSS Nettoyage Genève."
+permalink: /services-nettoyage-geneve/
 ---
 
 # Les services de GSS Nettoyage Genève 🇨🇭
