@@ -49,10 +49,4 @@ Rue Charles-Giron 12
 ---
 
 Entreprise de nettoyage à Genève - Nettoyage bureaux à Genève - Nettoyage fin de bail à Genève - Nettoyage professionnel en Suisse
-
----
-
 Conception et référencement du site web officiel : [Agence Zinaty Genève - Suisse](https://zinaty.ch)
-
-
-
