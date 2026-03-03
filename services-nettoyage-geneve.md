@@ -104,6 +104,10 @@ Rue Charles-Giron 12
 
 🌍 Site officiel : **[GSS Nettoyage Genève - Suisse](https://gssnettoyage.ch)**
 
+Autre page - Retour page Accueil GSS Nettoyage : <a href="https://gssnettoyage.github.io/gss_nettoyage_renovation_geneve_suisse/" title="Services de nettoyage à Genève">
+  GSS Nettoyage Genève - Suisse
+</a>
+
 ---
 
 Entreprise de nettoyage Genève - Nettoyage bureaux à Genève - Nettoyage fin de bail Genève - Nettoyage professionnel Suisse
