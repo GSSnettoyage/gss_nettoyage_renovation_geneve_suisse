@@ -115,3 +115,19 @@ hr {
   font-weight: 500;
   margin-top: 20px;
 }
+
+/* FORCE CENTRAGE GLOBAL MINIMA */
+
+.site,
+.site-content,
+.wrapper,
+.page-content {
+  max-width: 1000px !important;
+  margin: 0 auto !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+
+body {
+  background: #f4f6f8;
+}
